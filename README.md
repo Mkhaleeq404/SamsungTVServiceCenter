@@ -1,2 +1,0 @@
-# SamsungTVServiceCenter
-Test Project website 
